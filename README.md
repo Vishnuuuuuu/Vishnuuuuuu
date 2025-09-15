@@ -4,6 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VISHNU%20PRASAD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Animated typing text -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Scalable+Solutions+%26+Smart+Systems;Turning+Ideas+Into+Digital+Reality+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
@@ -15,25 +16,25 @@
 
 ```javascript
 const vishnu = {
-    code: ["JavaScript", "Python", "Java", "TypeScript"],
-    askMeAbout: ["web dev", "AI/ML", "backend architecture", "databases"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Fastify"],
-            python: ["FastAPI", "Django", "Flask"],
-            databases: ["PostgreSQL", "MongoDB", "MySQL", "Supabase"]
-        },
-        cloudServices: ["AWS", "Vercel", "Railway", "Firebase"],
-        aiMl: ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
-        devOps: ["Docker", "GitHub Actions", "Nginx"],
-        tools: ["Git", "Postman", "Notion", "VS Code"]
+  code: ["JavaScript", "Python", "Java", "TypeScript"],
+  askMeAbout: ["web dev", "AI/ML", "backend architecture", "databases"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Vue"],
+      css: ["Tailwind", "Bootstrap", "Material-UI"],
     },
-    currentFocus: "Building AI-powered web applications",
-    funFact: "I debug with console.log and I'm not ashamed! 🤷‍♂️"
+    backEnd: {
+      js: ["Node", "Express", "Fastify"],
+      python: ["FastAPI", "Django", "Flask"],
+      databases: ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
+    },
+    cloudServices: ["AWS", "Vercel", "Railway", "Firebase"],
+    aiMl: ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
+    devOps: ["Docker", "GitHub Actions", "Nginx"],
+    tools: ["Git", "Postman", "Notion", "VS Code"],
+  },
+  currentFocus: "Building AI-powered web applications",
+  funFact: "I debug with console.log and I'm not ashamed! 🤷‍♂️",
 };
 ```
 
@@ -58,15 +59,19 @@ const vishnu = {
 <div align="center">
 
 ### 🚀 **Languages & Frameworks**
+
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,fastapi,django" />
 
-### ☁️ **Cloud & Databases**  
+### ☁️ **Cloud & Databases**
+
 <img src="https://skillicons.dev/icons?i=aws,vercel,firebase,postgresql,mongodb,mysql,supabase,redis" />
 
 ### 🛠️ **Tools & DevOps**
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,vscode,notion" />
 
 ### 🤖 **AI/ML & Data Science**
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 <br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -90,11 +95,13 @@ const vishnu = {
 </div>
 
 ### 🏆 **Achievement Showcase**
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vishnuuuuuu&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
 </div>
 
 ### 📈 **Contribution Graph**
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnuuuuuu&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
 </div>
@@ -133,8 +140,8 @@ while coding:
     else:
         debug_with_coffee() ☕
         continue
-        
-# Always remember: Code is poetry written for machines 
+
+# Always remember: Code is poetry written for machines
 # but read by humans 💭
 ```
 
@@ -157,4 +164,4 @@ while coding:
   <img src="https://raw.githubusercontent.com/Vishnuuuuuu/Vishnuuuuuu/output/snake.svg" alt="Snake animation" />
 </div>
 
-⭐ **From [Vishnu](https://github.com/Vishnuuuuuu)** - *Crafted with* 💜 *and lots of* ☕
+⭐ **From [Vishnu](https://github.com/Vishnuuuuuu)** - _Crafted with_ 💜 _and lots of_ ☕
