@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
 
 <!-- EPIC TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🚀+Full+Stack+Developer+%26+AI+Engineer;🧠+Building+Next-Gen+Applications;⚡+Transforming+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🚀+Full+Stack+Developer+%26+AI+Engineer;🧠+Building+Next-Gen+Applications;⚡+Transforming+Ideas+Into+Digital+Reality"  />
 
 <!-- FUN STATUS -->
 <h3 align="center">
@@ -204,7 +204,7 @@ print("🌟 Ready to change the world, one line of code at a time! 🌟")
 <!-- TYPING FOOTER -->
 
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=⭐+Crafted+with+💛+and+endless+curiosity!;🚀+Powered+by+passion+and+late+night+coding!;✨+Thanks+for+stopping+by,+fellow+developer!" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=⭐+Crafted+with+💛+and+endless+curiosity!;🚀+Powered+by+passion+and+late+night+coding!;✨+Thanks+for+stopping+by,+fellow+developer!"  />
 
 <br><br>
 
